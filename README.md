@@ -1,37 +1,15 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I’m Akbar, a passionate coder with a focus on creating practical and efficient solutions. I enjoy diving into scripting projects and am always eager to explore new technologies.
-
----
-
-## 🛠️ Skills & Expertise
-- **PowerShell**: Developed multiple scripts for automation and system management.
-- **Python**: Proficient in basic scripting tasks, with a focus on expanding my expertise.
-- **Coding Enthusiast**: Constantly experimenting with new ideas to improve workflows.
-
----
-
-## 🌱 Currently Learning
-I’m actively improving my Python skills to take on more advanced projects and enhance my coding repertoire. Additionally, I’m exploring GitHub management and workflow optimization.
-
----
+I’m Akbar, a passionate coder skilled in **PowerShell scripting** and exploring **Python development**. I enjoy creating automation solutions and learning new technologies.
 
 ## 🎯 Interests
-- Scripting for automation and efficiency.
-- Sharing useful scripts and tools with the community.
-- Learning and growing as a developer through hands-on projects.
+- Coding, scripting, and sharing tools with the community.
+- Collaborating on automation and workflow improvements.
 
----
+## 🌱 Currently Learning
+I’m actively improving my Python skills to take on more advanced projects and enhance my coding repertoire.
 
-## 🤝 Collaboration Opportunities
-I’m looking to connect with like-minded coders and collaborate on:
-- PowerShell or Python projects.
-- Workflow improvements and automation scripts.
-- Open-source contributions.
-
----
-
-## 📫 How to Reach Me
+## Contact
 - **Email**: akbarraen7@gmail.com
 - **LinkedIn**: [Akbar Raen](http://linkedin.com/in/akbarraen)
 - **GitHub**: You're already here! 😉
